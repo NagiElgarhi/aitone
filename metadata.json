@@ -1,0 +1,6 @@
+{
+  "name": "Eastern Music & Singing Encyclopedia AI",
+  "description": "A complete encyclopedia and creative studio dedicated to Arabic and Eastern music. Includes maqamat, rhythms, emotions, instruments, singing techniques, and AI music generation prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
